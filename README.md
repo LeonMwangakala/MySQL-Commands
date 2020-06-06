@@ -1,2 +1,2 @@
-# CALCULATOR-FlutterApp
-A calculator app for Android/ios using Flutter.
+# MySQL Commands with Syntax & Examples.
+
