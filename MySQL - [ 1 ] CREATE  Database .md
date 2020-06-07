@@ -1,6 +1,7 @@
-[1] To create a new database.  
+# [1] To create a new database.  
+<b>Syntax:</b>  
+> CREATE DATABASE < databaseName > ;  
 
-> Syntax: CREATE DATABASE <databaseName> ;  
-
-Example: CREATE DATABASE Students ;  
+<b>Example:</b>
+> CREATE DATABASE School ;  
    
