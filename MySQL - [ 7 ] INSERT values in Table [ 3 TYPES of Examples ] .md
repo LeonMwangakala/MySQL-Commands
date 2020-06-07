@@ -4,7 +4,7 @@
 VALUES(column1value,column2value, column3value, column4value, column5value) ;    
 
 <b>Example 1 (Inserting Single Row of values):</b>
->  INSERT INTO < TableName >   
+>  INSERT INTO Students2   
 VALUES(1,"Saurav","Kumar",11,"2001-01-01","A") ;  
     
 <b>Example 2 (Inserting more than one row simultaneously):</b>
