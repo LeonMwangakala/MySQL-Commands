@@ -30,6 +30,6 @@ roll_number INT UNIQUE,
 dob DATE DEFAULT='2001-01-01',   
 section VARCHAR(1) DEFAULT='A',   
 PRIMARY KEY(id)      
-) ;  
+) ; 
   
    
