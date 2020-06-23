@@ -3,5 +3,5 @@
 > CREATE DATABASE < databaseName > ;  
 
 <b>Example:</b>
-> CREATE DATABASE School ;  
+> CREATE DATABASE School ;   
    
